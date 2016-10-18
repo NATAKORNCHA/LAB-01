@@ -14,7 +14,13 @@
    
    ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.2.jpg)
    
-
+   ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.3.jpg)
+   
+   ![]()
+   
+   ![]()
+   
+   ![]()
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
