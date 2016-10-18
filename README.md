@@ -62,7 +62,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
-WinMain (..), MessageBox(..) 
+WinMain (..), MessageBox(..) 414
  
 * [theForger's Win32 API Programming Tutorial](http://www.winprog.org/tutorial/start.html)
 * [Win32 programming tutorials](http://www.win32developer.com/tutorial.shtm)
