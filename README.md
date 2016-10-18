@@ -20,7 +20,7 @@
    
    ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.5.jpg)
    
-   ![]()
+   ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.6.jpg)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
