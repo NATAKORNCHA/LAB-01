@@ -6,7 +6,7 @@
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
-   ไม่พบปัญหาระหว่างการทดลอง
+    ไม่พบปัญหาระหว่างการทดลอง
 2. ให้ทดลองแก้ไข <code> MessageBox(...) </code> โดยการเปลี่ยน <code> MB_OK </code> เป็นค่าอื่นๆ
    จากการทดลองแก้ไข จะได้ข้อความตอบสนองรูปแบบต่างๆดังตัวอย่างต่อไปนี้
    
@@ -21,7 +21,5 @@
    ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.5.jpg)
    
    ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.6.jpg)
-```c 
- 	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
-```
+
 				
