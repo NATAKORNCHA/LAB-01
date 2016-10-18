@@ -16,7 +16,7 @@
    
    ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.3.jpg)
    
-   ![]()
+   ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.4.jpg)
    
    ![]()
    
