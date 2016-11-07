@@ -26,3 +26,4 @@
    ![](https://github.com/NATAKORNCHA/LAB-01/blob/master/imgs/m2.6.jpg)
 
 				
+  
